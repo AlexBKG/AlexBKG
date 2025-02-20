@@ -8,6 +8,9 @@ Soy estudiante de Ingeniería de Sistemas y Computación 📚💻 de la Universi
 - 🔹 **Bases de datos**: MySQL, MongoDB
 - 🔹 **DevOps**: Git
 
+## 📊 GitHub Stats
+![AlexBKG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexBKG&show_icons=true&theme=radical)
+
 ## 📫 Conéctate conmigo
 📧 adbenavidesc@unal.edu.co   
 📷 Instagram: adn_2004alex 
